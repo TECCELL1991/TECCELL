@@ -313,6 +313,7 @@ font-weight: 400;
         font-size: 0.8em;
         text-align: center;
         position: relative;
+         text-decoration: none;
     }
     
     #whatsapp-button {
